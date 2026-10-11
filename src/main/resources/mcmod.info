@@ -1,0 +1,17 @@
+[
+  {
+    "modid": "constructforspace",
+    "name": "construct for space",
+    "description": "Alt+F with a stick opens a survival menu for item duplication, item giving and toggleable permanent ultra-fast regeneration, without commands.",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [],
+    "credits": "",
+    "logoFile": "assets/constructforspace/textures/gui/archive.png",
+    "screenshots": [],
+    "parent": "",
+    "dependencies": []
+  }
+]
